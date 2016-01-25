@@ -40,7 +40,7 @@ puts x.inspect
 x.clear
 puts x.inspect
 
-x = 'venkat naveen kumar tirunagari'.split(' ')
+x = 'venkat kumar tirunagari'.split(' ')
 puts x.inspect
 
 x = []
